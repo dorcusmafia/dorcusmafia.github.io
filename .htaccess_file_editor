@@ -1,0 +1,10 @@
+# invoke rewrite engine
+RewriteEngine On
+RewriteBase /scraping/files/demo/dorcuskek.ml_rootedgalaxy2_gmail.com_yaat4fvuiw3
+#Redirect 400,401,403,404,500 to main website
+ErrorDocument 400 http://dorcuskek.ml
+ErrorDocument 401 http://dorcuskek.ml
+ErrorDocument 403 http://dorcuskek.ml
+ErrorDocument 404 http://dorcuskek.ml
+ErrorDocument 500 http://dorcuskek.ml
+RewriteRule ^index.html$ /scraping/files/demo/dorcuskek.ml_rootedgalaxy2_gmail.com_yaat4fvuiw3/ [L,R=301]

@@ -1,0 +1,27 @@
+Welcome to dorcusKek!
+
+A whole new Kik experience awaits...
+
+Here's some of the features we've got:
+-Working fake camera
+-Future timestamps
+-Marshmallow compatibility
+-Material design everywhere
+-Custom 'is typing...'
+-All the newest smileys (updated as they come out)
+-No annoying login capatchas* 
+-Bypass no save
+-Auto reply (and custom auto reply)
+
+Here's what our permissions are for:
+-We need access to the 'storage' permission for sending/saving content
+-We need access to the 'contacts' permission for Kiks contact importing system
+-We need access to the 'phone' permission for Kiks contact importing system (I assume)
+-We need access to the 'record audio' permission so we can record video with audio
+-We need access to the 'camera' permission so we can take/record media to share with others 
+
+In order to continue, please grant dorcusKek these permissions by pressing the 'Grant Permissions' button below.
+
+We hope you enjoy dorcusKek, thanks for downloading!
+
+*some users may still incur them
