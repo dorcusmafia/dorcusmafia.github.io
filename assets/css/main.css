@@ -655,8 +655,8 @@ font-family: 'Product Sans', Arial, sans-serif;		font-weight: 300;
 
 		.image.main {
 			display: block;
-			margin: 2rem 0;
-			width: 90%;
+			margin: 5rem 0;
+			width: 100%;
 		}
 
 			.image.main img {
