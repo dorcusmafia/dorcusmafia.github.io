@@ -1,0 +1,129 @@
+Beta 9.26
+Added welcome, leave, ban, and promoted bot message toggles with customisation
+Added lyrics functionality to bot (Use !ly artist - song)
+You can finally change your pfp again!
+Fixed custom 'is typing...': now shows on all screens it should
+
+Beta 9.23
+Added option to disable error receipts
+Squished a bug
+Removed potentially malicious trigger command
+
+Beta 9.22
+Refined icons
+New theming for several activities
+Added custom 'blocked message'
+Added bypass no forward
+Refinements to the permissions activity
+Bot way more refined, shouldn't crash
+Fixed MANY bugs
+Color of text in the input for messages matches theme color
+NEW font
+Refined Kik browser
+Floating action button is themed again (in a different way :P)
+Fixed most of the smileys, I'm lazy tbh
+
+Beta 9.18
+New admin commands
+Bot working
+Chat moderation fixes, still not usable by public
+Fixed shitton of crashes
+Better quality xxxhdpi icon
+Locked orientation of permissions activity
+Improved launch time
+
+Beta 9.17
+Fixed the horrible permissions implementation
+New splash logo
+Added more ripples to chat activity
+Added xxxhdpi icon
+Improved launch time
+Bug fixes
+Added windowLightStatusBar for v23+ for grey statusbar icons (no root)
+
+Beta 9.16
+A little housekeeping
+Added very buggy chat moderation (would not recommend using it yet)
+Fixed close on back button press 
+New sexy logo and website (dorcusKek.ml)
+New notification icon
+Special Thanks to Link (@intelliJ)
+
+Beta 9.15
+Removed most preference screen dividers
+Fixed p2s logo bug (long overdue)
+Added MORE material design elements
+Permissions Activity bug fix (should fix those stuck on "dorcusKek" screen)
+Added Auto Reply with custom Auto Reply!
+
+Beta 9.13
+A little housekeeping
+New welcome message added :)
+Set default theme to material purple
+New default smileys from kik.com (thx to them)
+
+Beta9.12
+New material design elements
+New steven universe smileys
+
+Beta9.10
+Android marshmallow permissions implemented
+New material icons for gallery and camera
+Added charity smiley
+Optimizations ;)
+
+Beta9.07
+Removed browser icon from topbar, because who actually uses it?
+Changed ripple to square for consistency on topbar
+Added new peach smileys
+Removed duplicate zombie smileys
+Adjusted size and design of floating action button
+Create hashtag bug fix
+
+Beta9.05 
+More settings fixes from my careless mistakes
+Added icon to 'Log Out'
+Fixed update url
+Added 'debugging' section to Advanced preference screen
+Fixed misc_PIKEK button theming (now static white)
+SEVERAL BUG FIXES
+
+Beta9.02
+New settings categories for ease of access!
+Whited out the preference screens to inadvertently fix a design bug
+
+Beta 8.0014
+Hint and typed text centered in chat fragment
+New material icon
+Some bug fixes
+Custom 'is typing...' is working, but only on conversations fragment
+Fixed commands and fixed commands preview
+Changed default theme to be consistent (material purple)
+
+Beta 8.0010
+Added Urban Dictionary Support! (Use !ud randomthing in group or pm)
+Fixed crash when opening group member layout
+Fixed icon rotation for media tray
+New super sexy font! (Also available in text font section)
+
+Beta 8.008
+Added new CNN election smileys
+Fixed bubble color for cobalt (previously appeared as purple)
+Added material purple bubble color
+
+Beta 8.006
+Added more new smileys (unicorns and shit)
+More material ripples ;)
+New floating action button
+Optimized icons for hdpi devices
+New material design loading spinner (perform a search to see it)
+
+Beta 8.004_SMILEYS
+Added new zombie, halloween, and pumpkin smileys
+
+Beta 8.002_fixperms:
+This version has MANY fixes and some new op features such as !kick (!commands for more)
+Fixed crash on startup
+Fixed !gn
+
+MORE COMING SOON <3
