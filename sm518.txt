@@ -1,1 +1,1 @@
-
+INSERT INTO smileyTable (smiley_id, smiley_text, smiley_category, smiley_install_date) VALUES ('dc61aca2', ':S', ':S', '1480559920000'),('5f864d4a', ':D', ':D', '1482164484000'),('3b23710d', '>:(', '>:(', '1482164491000'),('509f3e23', ':O', ':O', '1482164498000');
